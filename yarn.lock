@@ -1828,10 +1828,10 @@
     gatsby-plugin-theme-ui "^0.2.18"
     theme-ui "^0.2.18"
 
-"@xhq/gatsby-theme-docs@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@xhq/gatsby-theme-docs/-/gatsby-theme-docs-0.1.1.tgz#1dc59449300a0af463629b92745cce7fba4b9709"
-  integrity sha512-63TgRDNXvhMJzj+vqQ3Z5tyxK1bRjZ/GIi6Exj+D+/TEVi1A3TKCvpCaY6OUTBJTxq9z3n8D5UmpPJeoZbtiRg==
+"@xhq/gatsby-theme-docs@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@xhq/gatsby-theme-docs/-/gatsby-theme-docs-0.1.2.tgz#c26e01dda37db1c6d9bbde943026005daa706c2f"
+  integrity sha512-6XjASsQwB/cNfPYDwsbstmDsKTvdFzUqsi9fNxZMNDYSxw7p3TRwT2Z4M2M+/wpWgrBhlfLec3ETIlJu3XVeJw==
   dependencies:
     "@mdx-js/mdx" "^1.1.0"
     "@mdx-js/react" "^1.0.27"
